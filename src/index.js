@@ -1,5 +1,5 @@
 import generateJoke from "./generateJoke";
-import '../src/styles/main.scss';
+import './styles/main.scss';
 
 console.log(generateJoke())
 
